@@ -1,0 +1,7 @@
+{
+  "source": "final_validation/hedge_cache.npz",
+  "cost": 0.002,
+  "delta0": 0.02,
+  "lam": 0.5,
+  "method": "no retraining"
+}
